@@ -8,3 +8,4 @@ add code 4
 add action 4
 github add code 4
 test branch add file
+test merge commit
